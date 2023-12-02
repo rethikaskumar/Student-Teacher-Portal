@@ -10,13 +10,21 @@ Optimal Schedule Generation: Utilizing interval trees, each representing a lectu
 Data structures employed:
 
 File Management System: B Trees are utilized to create an efficient file management system.
+
 Login Activity Management: AVL Trees are used to manage login activities and user authentication.
+
 Optimal Lecture Schedule Generation: Interval Trees are employed to generate an optimal lecture schedule, ensuring no overlaps in lecture timings within lecture halls.
+
 How the program operates:
 
 Upon launching, the program prompts users for their login ID and password.
+
 Students, upon login, can search for and view uploaded files.
+
 Faculty members, upon login, have options to:
+
 Upload files or view previously uploaded files.
+
 Receive an optimal schedule based on provided timings, ensuring minimal scheduling conflicts.
+
 This application streamlines file management and lecture scheduling processes, providing a user-friendly interface for faculty and students within the educational institution.
